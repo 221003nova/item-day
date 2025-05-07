@@ -1,0 +1,1 @@
+function startMessage() { console.log('Message started'); }
